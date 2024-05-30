@@ -76,7 +76,7 @@ Internet został zasadniczo zaprojektowany tak, aby służył wszystkim, niezale
 
 Dlatego wpływ niepełnosprawności zmienia się radykalnie w Internecie, bowiem Internet usuwa bariery w komunikacji i uczestnictwie, z którymi wielu ludzi mierzy się w świecie fizycznym. Z drugiej strony, gdy strony internetowe, aplikacje, technologie lub narzędzia są źle zaprojektowane, mogą stawiać bariery uniemożliwiające ludziom korzystanie z Internetu.
 
-**Dostępność jest niezbędna dla programistów i organizacji, które chcą tworzyć wysokiej jakości strony i&nbsp;narzędzia internetowe, a&nbsp;nie wykluczać ludzi z&nbsp;korzystania z&nbsp;ich produktów i&nbsp;usług.**
+**Dostępność jest niezastąpiona dla programistów i organizacji, które chcą tworzyć wysokiej jakości strony i narzędzia internetowe, zamiast wykluczać ludzi z korzystania ze swoich produktów i usług.**
 
 > Siła Internetu tkwi w jego uniwersalności.  
 > Dostęp dla wszystkich bez względu na niepełnosprawność jest jego istotnym aspektem.
