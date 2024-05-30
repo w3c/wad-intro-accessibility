@@ -245,7 +245,7 @@ Zapewnienie transkrypcji w witrynach internetowych jest łatwe i&nbsp;stosunkowo
 
 -   [Wskazówki na dobry początek](/tips/)
 -   [[Łatwe testy - Wstępna ocena dostępności]](/test-evaluate/preliminary/)
--   {% include video-link.html class="small inline" title="Perspektywy dostępności internetowej &mdash; filmy i opisy" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
+-   {% include video-link.html class="small inline" title="Oblicza dostępności internetowej &mdash; filmy i opisy" href="/perspective-videos/" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
 {% include box.html type="end" %}
