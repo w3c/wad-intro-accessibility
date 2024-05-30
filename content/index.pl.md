@@ -96,7 +96,7 @@ Dostępność internetowa obejmuje wszystkie rodzaje niepełnosprawności wpływ
 -   poznawczą,
 -   neurologiczną,
 -   fizyczną,
--   mowy
+-   mowy,
 -   wzroku.
 
 Dostępność Internetu przynosi korzyści także osobom _bez_ niepełnosprawności, na przykład:
