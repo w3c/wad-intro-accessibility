@@ -92,7 +92,7 @@ Dostępność internetowa oznacza, że ​​strony internetowe, narzędzia i te
 
 Dostępność internetowa obejmuje wszystkie rodzaje niepełnosprawności wpływające na dostęp do Internetu, w tym niepełnosprawność:
 
--   słuchu
+-   słuchu,
 -   poznawczej
 -   neurologicznej
 -   fizycznej
