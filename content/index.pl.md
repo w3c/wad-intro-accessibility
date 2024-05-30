@@ -115,7 +115,6 @@ Zobacz 7-minutowy film z przykładami tego, jak niezbędna jest dostępność dl
 {:/}
 
 -   Jeśli chcesz dowiedzieć się więcej o tym, jaki wpływ na korzystanie z Internetu mają różne rodzaje niepełnosprawności, lub przeczytać o scenariuszach korzystania z Internetu przez osoby z niepełnosprawnościami, zobacz [Jak osoby z niepełnosprawnościami korzystają z Internetu](/people-use-web/).
-	z&nbsp;Internetu przez osoby z&nbsp;niepełnosprawnościami, zobacz
 	[Jak osoby z niepełnosprawnościami korzystają z&nbsp;Internetu](/people-use-web/).
 -   Jeśli chcesz poznać więcej przykładów korzyści dla innych, zapoznaj się z materiałami multimedialnymi:
     zapoznaj się z materiałami multimedialnymi 
