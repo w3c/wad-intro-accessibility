@@ -120,7 +120,7 @@ Zobacz 7-minutowy film z przykładami tego, jak niezbędna jest dostępność dl
 	[Walory dostępności internetowej dla osób z niepełnosprawnością oraz bez niej](https://www.w3.org/WAI/business-case/archive/soc#groups) 
 	(materiał archiwalny)
 	oraz archiwalnym materiałem [Wspólne doświadczenia internetowe: 
-	Typowe bariery dla 	użytkowników urządzeń mobilnych i&nbsp;osób z&nbsp;niepełnosprawnościami](/standards-guidelines/shared-experiences/).
+	Bariery wspólne dla użytkowników urządzeń mobilnych i osób z niepełnosprawnościami](/standards-guidelines/shared-experiences/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
