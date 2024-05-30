@@ -174,7 +174,7 @@ Inicjatywa na Rzecz Dostępności Internetu W3C ([WAI](/about/participating/)) o
 
 Wiele aspektów dostępności można stosunkowo łatwo zrozumieć i wdrożyć. Część rozwiązań z&nbsp;zakresu dostępności jest jednak bardziej złożona i&nbsp; wdrożenie ich wymaga większej wiedzy.
 
-Najbardziej wydajne i skuteczne jest uwzględnianie dostępności od samego początku projektu, dzięki czemu nie trzeba wracać i&nbsp;ponownie wykonywać pracy.
+Najbardziej wydajne i skuteczne jest uwzględnianie dostępności od samego początku projektu, dzięki czemu nie trzeba ponownie wykonywać tej samej pracy.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Więcej o tworzeniu dostępnej witryny internetowej" class="simple aside" %}
