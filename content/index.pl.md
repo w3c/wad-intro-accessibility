@@ -3,14 +3,14 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 title: Wprowadzenie do dostępności internetowej
 lang: pl   # Change "en" to the translated-language shortcode
-last_updated: 2024-03-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-05-31   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 translators:
   - name: "Stefan Wajda"
  
-# contributors:
-# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+contributors:
+  - name: "Michał Sobkowiak"   # Replace Jan Doe with contributor name, or delete this line if none
 
 
 github:
@@ -78,11 +78,6 @@ Dlatego wpływ niepełnosprawności zmienia się radykalnie w Internecie, bowiem
 
 **Dostępność jest niezastąpiona dla programistów i organizacji, które chcą tworzyć wysokiej jakości strony i narzędzia internetowe, zamiast wykluczać ludzi z korzystania ze swoich produktów i usług.**
 
-> Siła Internetu tkwi w jego uniwersalności.  
-> Dostęp dla wszystkich bez względu na niepełnosprawność jest jego istotnym aspektem.
-> 
-> Tim Berners-Lee, Dyrektor W3C i twórca World Wide Web
-
 ##Czym jest dostępność internetowa {#what}
 
 Dostępność internetowa oznacza, że ​​strony internetowe, narzędzia i technologie są projektowane i rozwijane w taki sposób, by mogły z nich korzystać osoby z niepełnosprawnościami. Mówiąc dokładniej, ludzie mogą:
@@ -115,12 +110,7 @@ Zobacz 7-minutowy film z przykładami tego, jak niezbędna jest dostępność dl
 {:/}
 
 -   Jeśli chcesz dowiedzieć się więcej o tym, jaki wpływ na korzystanie z Internetu mają różne rodzaje niepełnosprawności, lub przeczytać o scenariuszach korzystania z Internetu przez osoby z niepełnosprawnościami, zobacz [Jak osoby z niepełnosprawnościami korzystają z Internetu](/people-use-web/).
--   Jeśli chcesz poznać więcej przykładów korzyści dla innych, zapoznaj się z materiałami multimedialnymi:
-    [Użytkowanie internetu przez osoby z niepełnosprawnością i bez niej](/media/av/users-orgs/#situations), 
-	[Walory dostępności internetowej dla osób z niepełnosprawnością oraz bez niej](https://www.w3.org/WAI/business-case/archive/soc#groups) 
-	(materiał archiwalny)
-	oraz archiwalnym materiałem [Wspólne doświadczenia internetowe: 
-	Bariery wspólne dla użytkowników urządzeń mobilnych i osób z niepełnosprawnościami](/standards-guidelines/shared-experiences/).
+-   Jeśli chcesz poznać więcej przykładów korzyści dla innych, zapoznaj się z materiałami multimedialnymi: [Użytkowanie internetu przez osoby z niepełnosprawnością i bez niej](/media/av/users-orgs/#situations), [Walory dostępności internetowej dla osób z niepełnosprawnością oraz bez niej](https://www.w3.org/WAI/business-case/archive/soc#groups) (materiał archiwalny) oraz archiwalnym materiałem [Wspólne doświadczenia internetowe: Bariery wspólne dla użytkowników urządzeń mobilnych i osób z niepełnosprawnościami](/standards-guidelines/shared-experiences/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -170,7 +160,7 @@ Inicjatywa na Rzecz Dostępności Internetu W3C ([WAI](/about/participating/)) o
 {% include box.html type="end" %}
 {:/}
 
-###Spraw by Twoja witryna była dostępna{#website}
+###  Spraw by Twoja witryna była dostępna {#website}
 
 Wiele aspektów dostępności można stosunkowo łatwo zrozumieć i wdrożyć. Część rozwiązań z&nbsp;zakresu dostępności jest jednak bardziej złożona i&nbsp; wdrożenie ich wymaga większej wiedzy.
 
@@ -219,11 +209,11 @@ Istnieją specjalne narzędzia, które pomagają w ocenie. Jednak żadne narzęd
 
 ![obraz logo; Znacznik HTML img alt='Logo Inicjatywy na Rzecz Dostępności Internetowej'](https://www.w3.org/WAI/intro/alt-logo.png){:.right}
 
-Obrazy powinny mieć *[równoważną alternatywę tekstową](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (tekst alt) w znacznikach/kodzie.
+Obrazy powinny mieć *[równoznaczną alternatywę tekstową](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives)* (tekst alt) w znacznikach/kodzie.
 
 Jeśli nie istnieje tekst alternatywny dla obrazów, informacje o&nbsp;obrazie są niedostępne, na przykład dla osób, które nie widzą i&nbsp;używają czytnika ekranu, który odczytuje na głos informacje na stronie, w&nbsp;tym tekst alternatywny dla obrazów graficznych.
 
-Gdy podany jest równoważny tekst alternatywny, informacje są dostępne dla osób niewidomych, a&nbsp;także dla osób, które wyłączają obrazy (na przykład w regionach o&nbsp;drogiej lub niskiej przepustowości). Są one również dostępne dla technologii, które nie widzą obrazów, takich jak wyszukiwarki.
+Gdy podany jest równoznaczny tekst alternatywny, informacje są dostępne dla osób niewidomych, a&nbsp;także dla osób, które wyłączają obrazy (na przykład w regionach o&nbsp;drogiej lub niskiej przepustowości). Są one również dostępne dla technologii, które nie widzą obrazów, takich jak wyszukiwarki.
 
 ### Wprowadzanie danych z klawiatury
 
