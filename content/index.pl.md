@@ -95,7 +95,7 @@ Dostępność internetowa obejmuje wszystkie rodzaje niepełnosprawności wpływ
 -   słuchu,
 -   poznawczą,
 -   neurologiczną,
--   fizycznej
+-   fizyczną,
 -   mowy
 -   wzroku.
 
