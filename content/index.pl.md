@@ -163,7 +163,7 @@ Inicjatywa na Rzecz Dostępności Internetu W3C ([WAI](/about/participating/)) o
 {:/}
 
 -   Więcej informacji o tych aspektach współdziałania w zakresie dostępności można znaleźć w&nbsp;artykule [[Podstawowe komponenty dostępności internetowej]](/fundamentals/components/).
--   Wytyczne dla dostępności treści internetowych (WCAG), Wytyczne dla dostępności narzędzi autorskich (ATAG), ARIA dla złożonych dostępnych aplikacji internetowych i inne ważne materiały zostały przedstawione w&nbsp;[[Omówieniu standardów dostępności W3C]](/standards-guidelines/).
+-   Wytyczne dla dostępności treści internetowych (WCAG), Wytyczne dla dostępności narzędzi do tworzenia treści (ATAG), ARIA dla złożonych dostępnych aplikacji internetowych i inne ważne materiały zostały przedstawione w&nbsp;[[Omówieniu standardów dostępności W3C]](/standards-guidelines/).
 -   Aby dowiedzieć się więcej o tym, jak W3C WAI opracowuje materiały poprzez wielostronne, międzynarodowe uczestnictwo i&nbsp;jak możesz wnieść swój wkład, zobacz [O WAI](/about/) oraz [Uczestnictwo w&nbsp;WAI](/about/participating/).
 
 {::nomarkdown}
