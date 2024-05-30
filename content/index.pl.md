@@ -64,7 +64,7 @@ Zwiększenie dostępności przynosi korzyści jednostkom, firmom i społeczeńst
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Dostępność w kontekście {#context}
+##Spojrzenie na dostępność {#context}
 
 <blockquote class="pull">
   <p>Siła Internetu tkwi w jego uniwersalności.<br />
