@@ -197,7 +197,7 @@ Najbardziej wydajne i skuteczne jest uwzględnianie dostępności od samego pocz
 
 Podczas tworzenia lub modernizacji strony internetowej, należy oceniać dostępność na wczesnym etapie i&nbsp;w trakcie całego procesu tworzenia, aby rozpoznać problemy z&nbsp;dostępnością jak najwcześniej, kiedy łatwiej jest im zaradzić. Proste kroki, jak na przykład zmiana ustawień przeglądarki, mogą pomóc w&nbsp;ocenie niektórych aspektów dostępności. Kompleksowa ocena w&nbsp;celu ustalenia, czy witryna spełnia wszystkie wytyczne dotyczące dostępności, wymaga więcej wysiłku.
 
-Istnieją specjalne narzędzia, które pomagają w ocenie. Ale żadne narzędzie nie potrafi samodzielnie określić, czy witryna spełnia wytyczne dotyczące dostępności. Aby określić, czy witryna jest dostępna, niezbędna jest kompetentna ocena człowieka.
+Istnieją specjalne narzędzia, które pomagają w ocenie. Jednak żadne narzędzie nie potrafi samodzielnie określić, czy witryna spełnia wytyczne dotyczące dostępności. Aby określić, czy witryna jest dostępna, niezbędna jest kompetentna ocena człowieka.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Więcej o ocenianiu dostępności" class="simple aside" %}
