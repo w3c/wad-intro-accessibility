@@ -68,7 +68,7 @@ Zwiększenie dostępności przynosi korzyści jednostkom, firmom i społeczeńst
 
 <blockquote class="pull">
   <p>Siła Internetu tkwi w jego uniwersalności.<br />
-    Dostęp dla wszystkich bez względu na niepełnosprawność jest jego istotnym aspektem.</p>
+    Dostęp dla każdego bez względu na niepełnosprawność jest jego zasadniczym atrybutem.</p>
   <footer><cite>Tim Berners-Lee, Dyrektor W3C i twórca World Wide Web</cite></footer>
 </blockquote>
 
