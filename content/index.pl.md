@@ -102,7 +102,7 @@ Dostępność internetowa obejmuje wszystkie rodzaje niepełnosprawności wpływ
 Dostępność Internetu przynosi korzyści także osobom _bez_ niepełnosprawności, na przykład:
 
 -   osobom korzystającym z telefonów komórkowych, inteligentnych zegarków, inteligentnych telewizorów i&nbsp;innych urządzeń z małymi ekranami, różnymi trybami wprowadzania danych itp.
--   osobom starszym ze zmieniającymi się zdolnościami w związku ze starzeniem się
+-   osobom starszym ze zmieniającymi się zdolnościami ze względu na starzenie się,
 -   osobom z „tymczasową niepełnosprawnością”, np. złamaną ręką lub zgubionymi okularami
 -   osobom z „ograniczeniami sytuacyjnymi”, np. w jasnym świetle słonecznym lub w&nbsp;środowisku, w&nbsp;którym nie mogą słuchać dźwięku
 -   osobom korzystającym z wolnego połączenia internetowego lub mającym ograniczoną albo kosztowną przepustowość.
