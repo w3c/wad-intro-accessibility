@@ -41,7 +41,7 @@ footer: >
 
 Gdy strony i narzędzia internetowe są odpowiednio zaprojektowane i napisane, mogą z nich korzystać osoby z niepełnosprawnościami. Obecnie jednak wiele witryn i narzędzi jest tworzonych z barierami dostępności, które utrudniają lub uniemożliwiają korzystanie z nich niektórym osobom.
 
-Zapewnienie dostępności internetowej przynosi korzyści osobom fizycznym, firmom i&nbsp;społeczeństwu. Międzynarodowe standardy internetowe określają, co jest potrzebne do zapewnienia dostępności.
+Zwiększenie dostępności przynosi korzyści jednostkom, firmom i społeczeństwu.  Międzynarodowe standardy internetowe określają, co jest potrzebne do zapewnienia dostępności.
 
 
 {::nomarkdown}
