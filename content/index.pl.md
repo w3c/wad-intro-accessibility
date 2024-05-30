@@ -119,7 +119,7 @@ Zobacz 7-minutowy film z przykładami tego, jak dostępność jest niezbędna dl
 	[Jak osoby z niepełnosprawnościami korzystają z&nbsp;Internetu](/people-use-web/).
 -   Jeśli chcesz poznać więcej przykładów korzyści dla innych, zapoznaj się z materiałami multimedialnymi:
     zapoznaj się z materiałami multimedialnymi 
-    [Używane przez osoby z niepełnosprawnością i bez niej](/media/av/users-orgs/#situations), 
+    [Użytkowanie internetu przez osoby z niepełnosprawnością i bez niej](/media/av/users-orgs/#situations), 
 	zarchiwizowanym materiałem [Dostępność internetowa jest korzystna dla osób z&nbsp;niepełnosprawnością i&nbsp;bez&nbsp;niej](https://www.w3.org/WAI/business-case/archive/soc#groups) 
 	oraz zarchiwizowanym zasobem mobilnym [Wspólne doświadczenia internetowe: 
 	Typowe bariery dla 	użytkowników urządzeń mobilnych i&nbsp;osób z&nbsp;niepełnosprawnościami](/standards-guidelines/shared-experiences/).
