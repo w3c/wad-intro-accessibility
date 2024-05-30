@@ -107,7 +107,7 @@ Dostępność Internetu przynosi korzyści także osobom _bez_ niepełnosprawno�
 -   osobom oganiczonym okolicznościami, np. jasnym światłem słonecznym lub w otoczeniu, w którym nie mogą słuchać dźwięku,
 -   osobom korzystającym z wolnego połączenia internetowego albo mającym ograniczony lub kosztowny dostęp do internetu.
 
-Zobacz 7-minutowy film z przykładami tego, jak dostępność jest niezbędna dla osób z niepełnosprawnościami i przydatna dla wszystkich w różnych sytuacjach:<br>
+Zobacz 7-minutowy film z przykładami tego, jak niezbędna jest dostępność dla osób z niepełnosprawnościami i jak przydatna dla wszystkich w rozmaitych sytuacjach:<br>
 {% include video-link.html title="Perspektywy dostępności internetowej <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
