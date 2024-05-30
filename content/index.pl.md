@@ -122,7 +122,7 @@ Zobacz 7-minutowy film z przykładami tego, jak dostępność jest niezbędna dl
     [Użytkowanie internetu przez osoby z niepełnosprawnością i bez niej](/media/av/users-orgs/#situations), 
 	[Walory dostępności internetowej dla osób z niepełnosprawnością oraz bez niej](https://www.w3.org/WAI/business-case/archive/soc#groups) 
 	(materiał archiwalny)
-	oraz zarchiwizowanym zasobem mobilnym [Wspólne doświadczenia internetowe: 
+	oraz archiwalnym materiałem [Wspólne doświadczenia internetowe: 
 	Typowe bariery dla 	użytkowników urządzeń mobilnych i&nbsp;osób z&nbsp;niepełnosprawnościami](/standards-guidelines/shared-experiences/).
 
 {::nomarkdown}
