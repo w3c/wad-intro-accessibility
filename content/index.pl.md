@@ -85,7 +85,7 @@ Dlatego wpływ niepełnosprawności zmienia się radykalnie w Internecie, bowiem
 
 ##Czym jest dostępność internetowa {#what}
 
-Dostępność internetowa oznacza, że ​​strony internetowe, narzędzia i technologie są projektowane i rozwijane w taki sposób, aby mogły z nich korzystać osoby z niepełnosprawnościami. Mówiąc dokładniej, ludzie mogą:
+Dostępność internetowa oznacza, że ​​strony internetowe, narzędzia i technologie są projektowane i rozwijane w taki sposób, by mogły z nich korzystać osoby z niepełnosprawnościami. Mówiąc dokładniej, ludzie mogą:
 
 -   postrzegać, rozumieć, nawigować i wchodzić w interakcję z Internetem
 -   współtworzyć Internet. 
