@@ -238,7 +238,7 @@ Niektóre osoby nie mogą używać myszy, między innymi wielu starszych użytko
 
 [![przykładowa transkrypcja](https://www.w3.org/WAI/intro/transcript.png){:.right width="251" height="254"}](http://www.w3.org/WAI/highlights/200606wcag2interview.html)
 
-Tak jak obrazy nie są dostępne dla osób, które nie widzą, tak pliki audio nie są dostępne dla osób, które nie słyszą. Zapewnienie transkrypcji tekstowej sprawia, że ​​informacje audio są dostępne dla osób niesłyszących lub niedosłyszących, a&nbsp;także dla wyszukiwarek i&nbsp;innych technologii, które nie słyszą.
+Tak jak obrazy nie są dostępne dla osób, które nie widzą, tak pliki audio nie są dostępne dla osób, które nie słyszą. Zapewnienie transkrypcji sprawia, że ​​informacje audio są dostępne dla osób niesłyszących lub niedosłyszących, a&nbsp;także dla wyszukiwarek i&nbsp;innych technologii, które nie słyszą.
 
 Zapewnienie transkrypcji w witrynach internetowych jest łatwe i&nbsp;stosunkowo niedrogie. Istnieją również [usługi transkrypcji](http://www.uiaccess.com/transcripts/transcript_services.html), które tworzą transkrypcje tekstu w&nbsp;formacie HTML.
 
