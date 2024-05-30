@@ -58,13 +58,13 @@ Zwiększenie dostępności przynosi korzyści jednostkom, firmom i społeczeńst
 {:toc}
 
 <span class="box-h box-h-simple box-h-full">Materiały pokrewne</span><br>
-{% include video-link.html title="Film wprowadzający do dostępności internetowej i standardów W3C (4 minuty) <em>(4 minuty)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
+{% include video-link.html title="Film wprowadzający do dostępności internetowej i standardów W3C <em>(4 minuty)</em>" href="https://www.w3.org/WAI/videos/standards-and-benefits/" src="/content-images/wai-intro-accessibility/video-still-accessibility-intro-16-9.jpg" %}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
 
-##Spojrzenie na dostępność {#context}
+## Spojrzenie na dostępność {#context}
 
 <blockquote class="pull">
   <p>Siła Internetu tkwi w jego uniwersalności.<br />
@@ -78,7 +78,7 @@ Dlatego wpływ niepełnosprawności zmienia się radykalnie w Internecie, bowiem
 
 **Dostępność jest niezastąpiona dla programistów i organizacji, które chcą tworzyć wysokiej jakości strony i narzędzia internetowe, zamiast wykluczać ludzi z korzystania ze swoich produktów i usług.**
 
-##Czym jest dostępność internetowa {#what}
+## Czym jest dostępność internetowa {#what}
 
 Dostępność internetowa oznacza, że ​​strony internetowe, narzędzia i technologie są projektowane i rozwijane w taki sposób, by mogły z nich korzystać osoby z niepełnosprawnościami. Mówiąc dokładniej, ludzie mogą:
 
