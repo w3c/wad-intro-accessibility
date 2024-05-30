@@ -72,7 +72,7 @@ Zwiększenie dostępności przynosi korzyści jednostkom, firmom i społeczeńst
   <footer><cite>Tim Berners-Lee, Dyrektor W3C i twórca World Wide Web</cite></footer>
 </blockquote>
 
-Internet został zaprojektowany zasadniczo tak, aby służył wszystkim ludziom, niezależnie od ich sprzętu, oprogramowania, języka, lokalizacji czy sprawności. Gdy Internet osiąga ten cel, jest dostępny dla osób o zróżnicowanym zakresie słuchu, ruchu, wzroku i zdolności poznawczych.
+Internet został zasadniczo zaprojektowany tak, aby służył wszystkim, niezależnie od ich urządzeń, oprogramowania, języka, lokalizacji czy sprawności. Gdy Internet osiąga ten cel, jest dostępny dla osób z różnorodnym zakresem zdolności słuchowych, ruchowych, wzrokowych i poznawczych.
 
 W ten sposób wpływ niepełnosprawności ulega radykalnej zmianie w Internecie, bo Internet usuwa bariery w komunikacji i&nbsp;interakcjach, z którymi wiele osób boryka się w świecie fizycznym. Ale źle zaprojektowane strony internetowe, aplikacje, technologie lub narzędzia mogą stworzyć bariery uniemożliwiające ludziom korzystanie z Internetu.
 
