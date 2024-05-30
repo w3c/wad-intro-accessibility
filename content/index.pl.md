@@ -258,7 +258,7 @@ Zapewnienie transkrypcji w witrynach internetowych jest łatwe i&nbsp;stosunkowo
 
 ## Więcej informacji {#more-info}
 
-W3C WAI zapewnia szeroką gamę materiałów dotyczących różnych aspektów dostępności: [standardów](/standards-guidelines/), [edukacji](/teach-advocate/), [testowania/oceny](/test-evaluate/), [zarządzania projektami i&nbsp;polityk](/planning/). Zachęcamy do zapoznania się z&nbsp;tą witryną lub przejrzenia listy [materiałów WAI](/resources/).
+W3C WAI zapewnia bogaty wybór materiałów dotyczących różnych aspektów dostępności: [standardów](/standards-guidelines/), [edukacji](/teach-advocate/), [testowania/oceny](/test-evaluate/), [zarządzania projektami i&nbsp;polityk](/planning/). Zachęcamy do zapoznania się z&nbsp;naszą witryną lub przejrzenia listy [materiałów WAI](/resources/).
 
 **[[Podstawy dostępności cyfrowej - bezpłatny kurs internetowy]](/courses/foundations-course/)** dostarcza podstaw potrzebnych do zapewnienia dostępności technologii cyfrowej.
 
