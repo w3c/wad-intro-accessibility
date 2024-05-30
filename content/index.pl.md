@@ -232,7 +232,7 @@ Gdy podany jest równoważny tekst alternatywny, informacje są dostępne dla os
 
 ![przekreślona mysz](https://www.w3.org/WAI/intro/no-mouse.png){:.left width="67" height="45"}
 
-Niektóre osoby nie mogą używać myszy, między innymi wielu starszych użytkowników z&nbsp;ograniczoną precyzyjną kontrolą motoryczną. Dostępna witryna internetowa nie opiera się na myszy; sprawia, że [cała funkcjonalność jest dostępna z&nbsp;poziomu klawiatury](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible). Dzięki temu osoby z&nbsp;niepełnosprawnościami będą mogły korzystać z&nbsp;[technologii wspomagających](/planning/involving-users/#at), które symulują klawiaturę, takie jak wprowadzanie mowy.
+Niektóre osoby nie mogą używać myszy, między innymi wielu starszych użytkowników z&nbsp;ograniczoną precyzyjną kontrolą motoryczną. Dostępna witryna internetowa nie opiera się na myszy; sprawia, że [cała funkcjonalność jest dostępna z&nbsp;poziomu klawiatury](https://www.w3.org/WAI/WCAG22/Understanding/keyboard-accessible). Dzięki temu osoby z&nbsp;niepełnosprawnościami mogą korzystać z&nbsp;[technologii wspomagających](/planning/involving-users/#at), zastępujących klawiaturę, takich jak sterowanie głosowe.
 
 ### Transkrypcje dźwięku
 
