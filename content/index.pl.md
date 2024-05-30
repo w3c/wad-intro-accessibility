@@ -83,7 +83,7 @@ Dlatego wpływ niepełnosprawności zmienia się radykalnie w Internecie, bowiem
 > 
 > Tim Berners-Lee, Dyrektor W3C i twórca World Wide Web
 
-## Co to jest dostępność internetowa {#what}
+##Czym jest dostępność internetowa {#what}
 
 Dostępność internetowa oznacza, że ​​strony internetowe, narzędzia i technologie są projektowane i rozwijane w taki sposób, aby mogły z nich korzystać osoby z niepełnosprawnościami. Mówiąc dokładniej, ludzie mogą:
 
