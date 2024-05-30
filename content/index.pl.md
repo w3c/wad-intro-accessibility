@@ -172,7 +172,7 @@ Inicjatywa na Rzecz Dostępności Internetu W3C ([WAI](/about/participating/)) o
 
 ###Spraw by Twoja witryna była dostępna{#website}
 
-Wiele aspektów dostępności można łatwo zrozumieć i wdrożyć. Część rozwiązań z&nbsp;zakresu dostępności jest bardziej złożona i&nbsp;wymaga większej wiedzy do wdrożenia.
+Wiele aspektów dostępności można stosunkowo łatwo zrozumieć i wdrożyć. Część rozwiązań z&nbsp;zakresu dostępności jest jednak bardziej złożona i&nbsp; wdrożenie ich wymaga większej wiedzy.
 
 Najbardziej wydajne i skuteczne jest uwzględnianie dostępności od samego początku projektu, dzięki czemu nie trzeba wracać i&nbsp;ponownie wykonywać pracy.
 
