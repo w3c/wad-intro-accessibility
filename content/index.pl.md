@@ -118,7 +118,7 @@ Zobacz 7-minutowy film z przykładami tego, jak niezbędna jest dostępność dl
 
 ## Dostępność jest ważna dla osób fizycznych, firm i społeczeństwa {#important}
 
-Internet staje się coraz bardziej istotnym zasobem dla wielu wymiarów życia: edukacji, zatrudnienia, administracji publicznej, biznesu, opieki zdrowotnej, rekreacji i&nbsp;innych. Dostępność Internetu jest niezbędna, aby zapewnić równy dostęp i&nbsp;równe szanse osobom o&nbsp;różnorodnych możliwościach. Dostęp do informacji i komunikacji międzyludzkiej, w tym Internetu, zdefiniowana jest jako podstawowe prawo człowieka w Konwencji Narodów Zjednoczonych o Prawach osób z niepełnosprawnościami(UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)).
+Internet staje się coraz bardziej istotnym zasobem dla wielu wymiarów życia: edukacji, zatrudnienia, administracji publicznej, biznesu, opieki zdrowotnej, rekreacji i&nbsp;innych. Dostępność Internetu jest niezbędna, aby zapewnić równy dostęp i&nbsp;równe szanse osobom o&nbsp;różnorodnych możliwościach. Dostęp do informacji i komunikacji międzyludzkiej, w tym Internetu, zdefiniowana jest jako podstawowe prawo człowieka w Konwencji Narodów Zjednoczonych o Prawach osób z niepełnosprawnościami (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)).
 
 Internet oferuje możliwość bezprecedensowego dostępu do informacji i&nbsp;interakcji wielu osobom z&nbsp;niepełnosprawnościami. Oznacza to, że bariery w dostępie do mediów drukowanych, dźwiękowych i&nbsp;wizualnych można znacznie łatwiej pokonać za pomocą technologii internetowych.
 
@@ -152,8 +152,8 @@ Inicjatywa na Rzecz Dostępności Internetu W3C ([WAI](/about/participating/)) o
 {% include box.html type="start" h="3" title="Więcej o tworzeniu dostępnego Internetu" class="simple aside" %}
 {:/}
 
--   Więcej informacji o tych aspektach współdziałania w zakresie dostępności można znaleźć w&nbsp;artykule [[Podstawowe komponenty dostępności internetowej]](/fundamentals/components/).
--   Wytyczne dla dostępności treści internetowych (WCAG), Wytyczne dla dostępności narzędzi do tworzenia treści (ATAG), ARIA dla złożonych dostępnych aplikacji internetowych i inne ważne materiały zostały przedstawione w&nbsp;[[Omówieniu standardów dostępności W3C]](/standards-guidelines/).
+-   Więcej informacji o tych aspektach współdziałania w zakresie dostępności można znaleźć w&nbsp;artykule [Podstawowe komponenty dostępności internetowej](/fundamentals/components/).
+-   Wytyczne dla dostępności treści internetowych (WCAG), Wytyczne dla dostępności narzędzi do tworzenia treści (ATAG), ARIA dla złożonych dostępnych aplikacji internetowych i inne ważne materiały zostały przedstawione w&nbsp;[Omówieniu standardów dostępności W3C](/standards-guidelines/).
 -   Aby dowiedzieć się więcej o tym, jak W3C WAI opracowuje materiały poprzez wielostronne, międzynarodowe uczestnictwo i&nbsp;jak możesz pomóc, zobacz [O WAI](/about/) oraz [Uczestnictwo w&nbsp;WAI](/about/participating/).
 
 {::nomarkdown}
@@ -176,7 +176,7 @@ Najbardziej wydajne i skuteczne jest uwzględnianie dostępności od samego pocz
 -   Gdy tylko poczujesz się na siłach, by dowiedzieć się więcej o&nbsp;programowaniu i&nbsp;projektowaniu, prawdopodobnie skorzystasz z&nbsp;takich materiałów jak:
     -   [Jak spełnić WCAG (Krótki przewodnik)](https://www.w3.org/WAI/WCAG22/quickref/)
     -   [Samouczki dotyczące dostępności internetowej](/tutorials/)
--   Aby poznać problemy zarządzania projektami i organizacją, zobacz[Planowanie i zarządzanie dostępnością internetową](/planning-and-managing/).<br>
+-   Aby poznać problemy zarządzania projektami i organizacją, zobacz [Planowanie i zarządzanie dostępnością internetową](/planning-and-managing/).<br>
     Jeśli chcesz już teraz dokonać szybkich poprawek, zobacz temat [Sposoby napraw tymczasowych](/planning/interim-repairs/).
 
 {::nomarkdown}
