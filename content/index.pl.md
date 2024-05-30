@@ -74,7 +74,7 @@ Zwiększenie dostępności przynosi korzyści jednostkom, firmom i społeczeńst
 
 Internet został zasadniczo zaprojektowany tak, aby służył wszystkim, niezależnie od ich urządzeń, oprogramowania, języka, lokalizacji czy sprawności. Gdy Internet osiąga ten cel, jest dostępny dla osób z różnorodnym zakresem zdolności słuchowych, ruchowych, wzrokowych i poznawczych.
 
-W ten sposób wpływ niepełnosprawności ulega radykalnej zmianie w Internecie, bo Internet usuwa bariery w komunikacji i&nbsp;interakcjach, z którymi wiele osób boryka się w świecie fizycznym. Ale źle zaprojektowane strony internetowe, aplikacje, technologie lub narzędzia mogą stworzyć bariery uniemożliwiające ludziom korzystanie z Internetu.
+Dlatego wpływ niepełnosprawności zmienia się radykalnie w Internecie, bowiem Internet usuwa bariery w komunikacji i uczestnictwie, z którymi wielu ludzi mierzy się w świecie fizycznym. Z drugiej strony, gdy strony internetowe, aplikacje, technologie lub narzędzia są źle zaprojektowane, mogą stawiać bariery uniemożliwiające ludziom korzystanie z Internetu.
 
 **Dostępność jest niezbędna dla programistów i organizacji, które chcą tworzyć wysokiej jakości strony i&nbsp;narzędzia internetowe, a&nbsp;nie wykluczać ludzi z&nbsp;korzystania z&nbsp;ich produktów i&nbsp;usług.**
 
