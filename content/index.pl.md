@@ -170,7 +170,7 @@ Inicjatywa na Rzecz Dostępności Internetu W3C ([WAI](/about/participating/)) o
 {% include box.html type="end" %}
 {:/}
 
-### Uczyń dostępną swoją witrynę {#website}
+###Spraw by Twoja witryna była dostępna{#website}
 
 Wiele aspektów dostępności można łatwo zrozumieć i wdrożyć. Część rozwiązań z&nbsp;zakresu dostępności jest bardziej złożona i&nbsp;wymaga większej wiedzy do wdrożenia.
 
