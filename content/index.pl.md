@@ -154,7 +154,7 @@ Dostępność internetowa jest w&nbsp;wielu sytuacjach **wymagana przez prawo**.
 
 ## Tworzyć dostępny Internet {#making}
 
-Dostępność Internetu zależy od kilku współpracujących ze sobą komponentów, w tym technologii internetowych, przeglądarek internetowych i innych „programów użytkownika”, narzędzi autorskich i&nbsp;witryn internetowych.
+Dostępność Internetu zależy od kilku współpracujących ze sobą komponentów, w tym technologii internetowych, przeglądarek internetowych i innych „programów użytkownika”, narzędzi do tworzenia treści i&nbsp;witryn internetowych.
 
 Inicjatywa na Rzecz Dostępności Internetu W3C ([WAI](/about/participating/)) opracowuje specyfikacje techniczne, wytyczne, techniki i&nbsp;materiały pomocnicze opisujące rozwiązania w zakresie dostępności. Są one uznawane za międzynarodowe standardy dostępności internetowej; na przykład <abbr title="Wytyczne dla dostępności treści internetowej (WCAG)">WCAG 2.0 są także normą <abbr title="International Organization for Standardization">ISO</abbr>: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
 
