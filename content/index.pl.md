@@ -144,7 +144,7 @@ Dostępność internetowa jest w&nbsp;wielu sytuacjach **wymagana przez prawo**.
 {% include box.html type="start" h="3" title="Więcej informacji o znaczeniu dostępności" class="simple aside" %}
 {:/}
 
--   Ogólne informacje o korzyściach biznesowych znajdują się w dokumencie [[Biznesowe uzasadnienie dostępności cyfrowej]](/business-case/).
+-   Ogólne informacje o korzyściach dla przedsiębiorstw i przedsięwzięć znajdują się w dokumencie [[Biznesowe uzasadnienie dostępności cyfrowej]](/business-case/).
     -   Przykłady korzyści płynących z [tworzenia dostępnych mediów audio i&nbsp;wideo](/media/av/) przedstawiono w&nbsp;części [Korzyści dla organizacji](/media/av/users-orgs/#benefits).
 -   Wskazówki dla ustalania wymogów prawnych znajdują się w&nbsp;zarchiwizowanym opracowaniu [Czynniki prawne i&nbsp;polityczne](https://www.w3.org/WAI/business-case/archive/pol).
 
