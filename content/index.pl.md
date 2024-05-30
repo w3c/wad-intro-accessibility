@@ -39,7 +39,7 @@ footer: >
 {% include box.html type="start" h="2" title="Podsumowanie" class="full" %}
 {:/}
 
-Gdy strony i narzędzia internetowe są odpowiednio zaprojektowane i zakodowane, osoby z niepełnosprawnościami mogą z&nbsp;nich korzystać. Jednak obecnie wiele witryn i narzędzi jest tworzonych z barierami dostępności, które utrudniają lub uniemożliwiają korzystanie z nich niektórym osobom.
+Gdy strony i narzędzia internetowe są odpowiednio zaprojektowane i napisane, mogą z nich korzystać osoby z niepełnosprawnościami. Obecnie jednak wiele witryn i narzędzi jest tworzonych z barierami dostępności, które utrudniają lub uniemożliwiają korzystanie z nich niektórym osobom.
 
 Zapewnienie dostępności internetowej przynosi korzyści osobom fizycznym, firmom i&nbsp;społeczeństwu. Międzynarodowe standardy internetowe określają, co jest potrzebne do zapewnienia dostępności.
 
