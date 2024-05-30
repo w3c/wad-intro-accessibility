@@ -128,7 +128,7 @@ Zobacz 7-minutowy film z przykładami tego, jak niezbędna jest dostępność dl
 
 ## Dostępność jest ważna dla osób fizycznych, firm i społeczeństwa {#important}
 
-Internet staje się coraz bardziej istotnym zasobem dla wielu aspektów życia: edukacji, zatrudnienia, administracji publicznej, biznesu, opieki zdrowotnej, rekreacji i&nbsp;innych. Dostępność Internetu jest niezbędna, aby zapewnić równy dostęp i&nbsp;równe szanse osobom o&nbsp;różnorodnych sprawnościach. Dostępność technologii informacyjnych i&nbsp;komunikacyjnych, w&nbsp;tym Internetu, zdefiniowana jest jako podstawowe prawo człowieka w Konwencji Narodów Zjednoczonych o Prawach osób z&nbsp;niepełnosprawnościami (UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)).
+Internet staje się coraz bardziej istotnym zasobem dla wielu wymiarów życia: edukacji, zatrudnienia, administracji publicznej, biznesu, opieki zdrowotnej, rekreacji i&nbsp;innych. Dostępność Internetu jest niezbędna, aby zapewnić równy dostęp i&nbsp;równe szanse osobom o&nbsp;różnorodnych możliwościach. Dostęp do informacji i komunikacji międzyludzkiej, w tym Internetu, zdefiniowana jest jako podstawowe prawo człowieka w Konwencji Narodów Zjednoczonych o Prawach osób z niepełnosprawnościami(UN [CRPD](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)).
 
 Internet oferuje możliwość bezprecedensowego dostępu do informacji i&nbsp;interakcji wielu osobom z&nbsp;niepełnosprawnościami. Oznacza to, że bariery w dostępie do mediów drukowanych, dźwiękowych i&nbsp;wizualnych można znacznie łatwiej pokonać za pomocą technologii internetowych.
 
