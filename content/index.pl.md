@@ -104,7 +104,7 @@ Dostępność Internetu przynosi korzyści także osobom _bez_ niepełnosprawno�
 -   osobom korzystającym z telefonów komórkowych, inteligentnych zegarków, inteligentnych telewizorów i&nbsp;innych urządzeń z małymi ekranami, różnymi trybami wprowadzania danych itp.
 -   osobom starszym ze zmieniającymi się zdolnościami ze względu na starzenie się,
 -   osobom z „tymczasową niepełnosprawnością”, np. złamaną ręką lub zgubionymi okularami,
--   osobom z „ograniczeniami sytuacyjnymi”, np. w jasnym świetle słonecznym lub w&nbsp;środowisku, w&nbsp;którym nie mogą słuchać dźwięku
+-   osobom oganiczonym okolicznościami, np. jasnym światłem słonecznym lub w otoczeniu, w którym nie mogą słuchać dźwięku,
 -   osobom korzystającym z wolnego połączenia internetowego lub mającym ograniczoną albo kosztowną przepustowość.
 
 Zobacz 7-minutowy film z przykładami tego, jak dostępność jest niezbędna dla osób z niepełnosprawnościami i przydatna dla wszystkich w różnych sytuacjach:<br>
