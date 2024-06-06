@@ -3,7 +3,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 title: Wprowadzenie do dostępności internetowej
 lang: pl   # Change "en" to the translated-language shortcode
-last_updated: 2024-05-31   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-06-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 translators:
@@ -30,7 +30,7 @@ layout: default
 # Translate the other words, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Data:</strong> Aktualizacja 20 listopada 2023. Pierwsza publikacja w lutym 2005. DZIENNIK ZMIAN.</p>
+  <p><strong>Data:</strong> Aktualizacja 20 listopada 2023. Pierwsza publikacja w lutym 2005. CHANGELOG.</p>
   <p><strong>Redaktorka:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Opracowane przez Grupę Roboczą ds. Edukacji i Promocji (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ---
@@ -68,7 +68,7 @@ Zwiększenie dostępności przynosi korzyści jednostkom, firmom i społeczeńst
 
 <blockquote class="pull">
   <p>Siła Internetu tkwi w jego uniwersalności.<br />
-    Dostęp dla każdego bez względu na niepełnosprawność jest jego zasadniczym atrybutem.</p>
+    Dostęp dla każdego bez względu na niepełnosprawność jest jego zasadniczym aspektem.</p>
   <footer><cite>Tim Berners-Lee, Dyrektor W3C i twórca World Wide Web</cite></footer>
 </blockquote>
 
@@ -99,14 +99,14 @@ Dostępność Internetu przynosi korzyści także osobom _bez_ niepełnosprawno�
 -   osobom korzystającym z telefonów komórkowych, inteligentnych zegarków, inteligentnych telewizorów i&nbsp;innych urządzeń z małymi ekranami, różnymi trybami wprowadzania danych itp.
 -   osobom starszym ze zmieniającymi się zdolnościami ze względu na starzenie się,
 -   osobom z „tymczasową niepełnosprawnością”, np. złamaną ręką lub zgubionymi okularami,
--   osobom oganiczonym okolicznościami, np. jasnym światłem słonecznym lub w otoczeniu, w którym nie mogą słuchać dźwięku,
+-   osobom z ograniczeniami sytuacyjnymi, np. jasnym światłem słonecznym lub w otoczeniu, w którym nie mogą słuchać dźwięku,
 -   osobom korzystającym z wolnego połączenia internetowego albo mającym ograniczony lub kosztowny dostęp do internetu.
 
 Zobacz 7-minutowy film z przykładami tego, jak niezbędna jest dostępność dla osób z niepełnosprawnościami i jak przydatna dla wszystkich w rozmaitych sytuacjach:<br>
 {% include video-link.html title="Oblicza dostępności internetowej <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="Więcej o dostępności" class="simple aside" %}
+{% include box.html type="start" h="3" title="Więcej informajci o dostępności" class="simple aside" %}
 {:/}
 
 -   Jeśli chcesz dowiedzieć się więcej o tym, jaki wpływ na korzystanie z Internetu mają różne rodzaje niepełnosprawności, lub przeczytać o scenariuszach korzystania z Internetu przez osoby z niepełnosprawnościami, zobacz [Jak osoby z niepełnosprawnościami korzystają z Internetu](/people-use-web/).
@@ -130,6 +130,8 @@ Dostępność wspiera włączenie społeczne osób z niepełnosprawnościami, a 
 
 Dostępność internetowa jest w&nbsp;wielu sytuacjach **wymagana przez prawo**.
 
+**Dostępność ma również silne uzasadnienie biznesowe.** Jak pokazano w poprzedniej sekcji, dostępny projekt poprawia ogólne doświadczenie i satysfakcję użytkownika, szczególnie w różnych sytuacjach, na różnych urządzeniach i w przypadku starszych użytkowników. Dostępność może wzmocnić markę, pobudzić innowacje i rozszerzyć zasięg rynkowy.
+
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Więcej informacji o znaczeniu dostępności" class="simple aside" %}
 {:/}
@@ -146,10 +148,10 @@ Dostępność internetowa jest w&nbsp;wielu sytuacjach **wymagana przez prawo**.
 
 Dostępność Internetu zależy od kilku współpracujących ze sobą komponentów, w tym technologii internetowych, przeglądarek internetowych i innych „programów użytkownika”, narzędzi do tworzenia treści i&nbsp;witryn internetowych.
 
-Inicjatywa na Rzecz Dostępności Internetu W3C ([WAI](/about/participating/)) opracowuje specyfikacje techniczne, wytyczne, techniki i&nbsp;materiały pomocnicze opisujące rozwiązania w zakresie dostępności. Są one uznawane za międzynarodowe standardy dostępności internetowej; na przykład <abbr title="Wytyczne dla dostępności treści internetowej (WCAG)">WCAG 2.0 są także normą <abbr title="International Organization for Standardization">ISO</abbr>: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
+Inicjatywa na Rzecz Dostępności Internetu W3C ([WAI](/about/participating/)) opracowuje specyfikacje techniczne, wytyczne, techniki i&nbsp;materiały pomocnicze opisujące rozwiązania w zakresie dostępności. Są one uznawane za międzynarodowe standardy dostępności internetowej; na przykład <abbr title="Wytyczne dla dostępności treści internetowej (WCAG)">WCAG</abbr> 2.0 są także normą <abbr title="International Organization for Standardization">ISO</abbr>: ISO/<abbr title="International Electrotechnical Commission">IEC</abbr> 40500.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="Więcej o tworzeniu dostępnego Internetu" class="simple aside" %}
+{% include box.html type="start" h="3" title="Więcej informacji o tworzeniu dostępnego Internetu" class="simple aside" %}
 {:/}
 
 -   Więcej informacji o tych aspektach współdziałania w zakresie dostępności można znaleźć w&nbsp;artykule [Podstawowe komponenty dostępności internetowej](/fundamentals/components/).
@@ -167,7 +169,7 @@ Wiele aspektów dostępności można stosunkowo łatwo zrozumieć i wdrożyć. C
 Najbardziej wydajne i skuteczne jest uwzględnianie dostępności od samego początku projektu, dzięki czemu nie trzeba ponownie wykonywać tej samej pracy.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="Więcej o tworzeniu dostępnej witryny internetowej" class="simple aside" %}
+{% include box.html type="start" h="3" title="Więcej informacji o tworzeniu dostępnej witryny internetowej" class="simple aside" %}
 {:/}
 
 -   Wprowadzenie do wymagań dostępności i standardów międzynarodowych znajdziesz w&nbsp;artykule [[Podstawy dostępności]](/fundamentals/accessibility-principles/).
@@ -190,7 +192,7 @@ Podczas tworzenia lub modernizacji strony internetowej, należy oceniać dostęp
 Istnieją specjalne narzędzia, które pomagają w ocenie. Jednak żadne narzędzie nie potrafi samodzielnie określić, czy witryna spełnia wytyczne dotyczące dostępności. Aby określić, czy witryna jest dostępna, niezbędna jest kompetentna ocena człowieka.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="Więcej o ocenianiu dostępności" class="simple aside" %}
+{% include box.html type="start" h="3" title="Więcej informcji o ocenianiu dostępności" class="simple aside" %}
 {:/}
 
 -   Materiały pomocne w ocenie dostępności przedstawiono w&nbsp;sekcji [[Ocena dostępności internetowej]](/test-evaluate/).
