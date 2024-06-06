@@ -106,7 +106,7 @@ Zobacz 7-minutowy film z przykładami tego, jak niezbędna jest dostępność dl
 {% include video-link.html title="Oblicza dostępności internetowej <em>(YouTube)</em>" href="https://www.youtube.com/watch?v=3f31oufqFSM" src="/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" %}
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="Więcej informajci o dostępności" class="simple aside" %}
+{% include box.html type="start" h="3" title="Więcej o tym, czym jest dostępność" class="simple aside" %}
 {:/}
 
 -   Jeśli chcesz dowiedzieć się więcej o tym, jaki wpływ na korzystanie z Internetu mają różne rodzaje niepełnosprawności, lub przeczytać o scenariuszach korzystania z Internetu przez osoby z niepełnosprawnościami, zobacz [Jak osoby z niepełnosprawnościami korzystają z Internetu](/people-use-web/).
