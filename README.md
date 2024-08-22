@@ -1,4 +1,4 @@
 > [!IMPORTANT]
-> This repository will be archived soon.
+> This repository has been archived 22 August 2024.
 >
-> [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
+> [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
